@@ -7,7 +7,7 @@ My first steps to create a Berlin (or Germany) Sourcebook compatible with all Fa
 1. The City of Berlin
     1. The Secret Market
 2. Noteable People
-    3. The Monster in the Underground
+    1. The Monster in the Underground
 
 # Links
 https://www.markdownguide.org/cheat-sheet/
