@@ -5,7 +5,7 @@ My first steps to create a Berlin (or Germany) Sourcebook compatible with all Fa
 
 #### Table of Contents
 1. The City of Berlin
-    1. The Secret Market
+    1. [The Secret Market](feymarket.txt)
 2. Noteable People
     1. The Monster in the Underground
 
