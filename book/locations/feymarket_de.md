@@ -1,285 +1,160 @@
+# Feenmarkt
+Entlang der Berliner Mauer, die Berlin für fast 30 Jahre teilte, findet alle zwei Wochen ein Flohmarkt statt. Ein solcher Markt zieht natürlich auch übernatürliche Besucher an - den Feenmarkt kann man nur betreten, wenn man - während des Flohmarktes - sieben Mal einen Satz über die Mauer macht.
 
-Perfume shop where you can buy bottles of abstract concepts. Innocence, mercy, insight, empathy, inspiration, serendipity. And a spray does what's on the label.
-6
-Nutzeravatar
-Level 2
-Arandmoor
-·
-vor 25 Tagen
-
-Sniped and added. I'm pricing the bottles at one box of indebted per use. One use creates a scene aspect involving what's on the bottle :D
-1
-Nutzeravatar
-Level 1
-Eldan985
-·
-vor 28 Tagen
-
-I had a faerie shop that traded in dreams. You could sell your nightmares (if they were interesting, basically, challenging the players to describe them in detail) for store credit, and buy restful or exciting dreams in exchange. If you were really lucky and had a lot of credit, the store owner occasionally got rarities like prophetic dreams or semi-lucid dreams that could teach you a skill. (Think Matrix: I know Kung-Fu).
-
-You already have a magic ingredients shop, but make sure to sell some impossible ingredients, like for example in norse mythology, where dwarves make their unbreakable chain out of things like fish breath and spider's tears.
-5
-Nutzeravatar
-Level 2
-Arandmoor
-·
-vor 25 Tagen
-
-I've got a list of "street vendors". One of them is a fetch in a trench coat who will approach the PCs going, "you wanna buy some dreams?"
-
-It will quickly go downhill from there :D
-1
-Nutzeravatar
-Level 1
-oideun
-·
-vor 28 Tagen
-
-Not the ICE branded boxes in the child selling shop!🤣🤣🤣
-2
-Nutzeravatar
-Level 2
-PM_ME_C_CODE
-Poster*in ·
-vor 28 Tagen
-
-I'm kind of surprised that nobody mentioned the random Olive Garden :D
-1
-Nutzeravatar
-Level 3
-ph0t0k
-·
-vor 28 Tagen
-
-I got a few chuckles from your list. The Olive Garden was a nice touch.
-1
-Nutzeravatar
-Level 4
-PM_ME_C_CODE
-Poster*in ·
-vor 28 Tagen
-
-Mortals gotta eat. And for some reason, none of them trust the bakery.
-2
-Nutzeravatar
-Level 3
-oideun
-·
-vor 28 Tagen
-
-We don't have them in my country, so I just know if they're existence from TV shows references, unsure as to how they fit there
-1
-Nutzeravatar
-Level 4
-Arandmoor
-·
-vor 25 Tagen
+## Stände
+Wundersame Stände, betrieben von Feen aller Höfe und Loyalitäten, finden sich auf der Feenseite des Marktes. Es gilt ein Pakt, niemals zur Gewalt zu greifen, den man mit dem Betreten eingeht. Feen können den Pakt nicht brechen, sich aber durchaus wehren, wenn sie angegriffen werden. Sterbliche haben einen freien Willen und könnten den Pakt brechen - wenn sie denn einer Fee so viel Macht über sich geben wollen.
 
-I figure that even faeries cannot resist the pull of unlimited bread sticks. Also it was just the most...ordinary...mass market restaurant I could think of.
-1
-Nutzeravatar
-Level 3
-FetchMeACoke
-·
-vor 24 Tagen
+### Parfüm
+Hier gibt es kleine Fläschchen mit abstrakten Konzepten wie Unschuld, Gnade, Verständnis, Empathie, Inspiration. Und ein Sprühstoß macht das, was auf der Flasche steht.
 
-Hey, it takes a lot of magic to have ENDLESS soup, salad, and bread-sticks.
-1
-Nutzeravatar
-Level 1
-Frankto
-·
-vor 28 Tagen
-· bearbeitet vor 28 Tagen
+### Wandernder Traumhändler
+Der wandernde Traumhändler kauft und verkauft Träume. Man kann z.B. seine Albträume (wenn sie interessant sind und die Spieler herausforderten, sie detailliert zu beschreiben) gegen Guthaben verkaufen und im Gegenzug erholsame oder spannende Träume kaufen. Wenn man wirklich Glück hatte und viel Guthaben besaß, bekam der Ladenbesitzer gelegentlich Raritäten wie prophetische Träume oder Wachträume, in denen man eine Fähigkeit erlernen konnte. (Denk an Matrix: I know Kung-Fu).
 
-Oh man, a store selling first borns. Not helpful, I know, but that is excellent!
+Der Traumhändler besitzt keinen Stand, es handelt sich um einen Fetch (Furchtfresser), der einen beigen Trenchcoat trägt und mit seiner zischenden Sprache fragt: "Willst du einen Traum kaufen?"
 
-What about a shop that sells secrets? Just random bits of secret knowledge, inventory of one. Or memories, maybe? Or a "drug" dealer that sells distillates of human emotion. Or a debt peddler.
+### Boutique des Traumwebers
+Die Konkurrenz hingegen verfügt über einen Stand, in dem Träume und Alpträume in verschiedenen Formen verkauft werden, z. B. abgefüllte Träume oder verzauberte Gegenstände, die bestimmte Traumerlebnisse hervorrufen können. Die Traumweberin, eine silberzüngige Fee, sitzt auf einem Thron aus Kissen und Seide, umgeben von Regalen, die mit schimmernden Traumgläsern gefüllt sind. Die Fee bietet Träume an, die die tiefsten Sehnsüchte des Spielers zu erfüllen scheinen, aber auch unerwartete und unerwünschte Nebeneffekte haben können.
 
-EDIT: Or time! Buy years of life somehow, if you happen to not just be arbitrarily super long lived like wizards.
-1
-Nutzeravatar
-Level 2
-Arandmoor
-·
-vor 25 Tagen
+Phobophagen/Furchfressern ist der Zutritt zur Galerie absolut untersagt.
 
-lol...the real fun with the firstborn shop is the gingerbread bakery located suspiciously close to it :)
-3
-Nutzeravatar
-Level 3
-FetchMeACoke
-·
-vor 24 Tagen
+_Falle:_ Ein Traum von ultimativer Macht, der sich als Alptraum entpuppt, in dem der Spieler seine neu gewonnenen Fähigkeiten nicht kontrollieren kann und Chaos anrichtet. 
 
-And all the firstborns also just happen to be red-heads. (cause they've gone through conversion and the real soul is in a cookie while some nasty beastie drives your meat-sack around and the process turns their hair red......)
-1
-Nutzeravatar
-Level 1
-kelsiersghost
-·
-vor 28 Tagen
-· bearbeitet vor 28 Tagen
+_Schnäppchen:_ Ein Traum, der ein verborgenes Talent oder Potenzial des Spielers offenbart; ein Traum, der einen Hinweis auf den nächsten Schritt in seinem Abenteuer liefert. 
 
-    The Memory Emporium:
+_Unverhältnismäßiger Preis_: Die Fee bittet den Spieler, ihm eine seltene, gefährliche Kreatur, die sich von Träumen ernährt, als Bezahlung für seinen Kauf zu bringen.
 
-A shop that buys, sells, and trades memories, with an ageless being as its shopkeeper. The store is filled with glowing vials containing memories, and the walls are adorned with intricate artwork depicting scenes from various recollections. The ageless being is a master of riddles and double entendres, often offering memories that seem valuable but have hidden drawbacks.
+### Magierbedarf
+Verkauft "unmögliche" Zutaten wie Fischatem, Spinnentränen 
 
-** Trap item:** A memory of a powerful spell or secret, but it turns out to be widely known or even a prank. ** Genuine items**: A memory containing the solution to a difficult puzzle or the location of a hidden treasure; A memory of a long-lost loved one, allowing the player to reconnect with their past. Unreasonable request: The shopkeeper asks for a player's most cherished memory in exchange for the desired memory.
+### Kinderladen
+Verkauft Kinder - oft natürlich solche aus einem Feenpakt. Spezialisiert auf Erstgeborene. Viele rothaarige Kinder (die ja bekanntlich keine Seele (mehr) haben). Alternativ: Die rothaarigen Kinder sind von bösartigen Wesen besessen. Oder ihre Seele ist in der [Lebkuchenbäckerei](#Lebkuchenbäckerei) in einen Lebkuchen eingebacken.
 
-    The Dreamweaver's Boutique:
+Wer es politisch mag, lässt durchschimmern, dass die Kinder von FRONTEX gekauft werden.
 
-A whimsical store that sells dreams and nightmares in various forms, such as bottled dreams or enchanted items that can induce specific dream experiences. The Dreamweaver, a silver-tongued fey, sits on a throne of pillows and silk, surrounded by shelves filled with shimmering dream jars. The fey offers dreams that seem to fulfill a player's deepest desires but may come with unexpected and unwanted side effects.
+### Schweinske
+Ein völlig normales Restaurant der Kette "Schweinske". Betrieben von Sterblichen. Denn aus irgend einem Grund trauen viele Leute Lebensmitteln nicht, die von Feen verkauft werden.
 
-Trap item: A dream of ultimate power, which turns out to be a nightmare where the player is unable to control their newfound abilities, causing havoc. Genuine items: A dream that reveals a hidden talent or potential within the player; A dream that provides a clue to the next step in their adventure. Unreasonable request: The fey asks the player to bring them a rare, dangerous creature that feeds on dreams as payment for their purchase.
+### Geheimnisse
+Hat immer nur eines - zufälliges Geheimwissen, etc.
 
-    The Timekeeper's Workshop:
+### Gefühle / Erinnerungen
+Ein Laden, in dem Erinnerungen gekauft, verkauft und gehandelt werden, mit einem alterslosen Wesen als Ladenbesitzer. Der Laden ist mit leuchtenden Fläschchen gefüllt, die Erinnerungen enthalten, und die Wände sind mit komplizierten Kunstwerken geschmückt, die Szenen aus verschiedenen Erinnerungen darstellen. Das alterslose Wesen ist ein Meister der Rätsel und Doppeldeutigkeiten und bietet oft Erinnerungen an, die wertvoll erscheinen, aber versteckte Nachteile haben.
 
-This shop sells and repairs a wide variety of time-related items, such as hourglasses, sundials, and clocks. The Timekeeper, an enigmatic fey with an ever-shifting appearance, also offers time-manipulation services, like rewinding or fast-forwarding time, but at a hefty price. The shop is filled with ticking and whirring mechanisms, and the walls are adorned with celestial maps and time-related symbols.
+_Falle:_ Eine Erinnerung an einen mächtigen Zauber oder ein Geheimnis, das sich jedoch als weithin bekannt oder sogar als Streich herausstellt. 
 
-Trap item: A pocket watch that promises to slow down time for the user, but it actually speeds up time for everyone else, leaving the user feeling rushed and disoriented. Genuine items: A timepiece that allows the player to briefly glimpse potential future outcomes of their actions; An hourglass that can temporarily halt time for a few moments, allowing the player to act without being noticed. Unreasonable request: The Timekeeper asks the player to pledge a portion of their remaining lifespan in exchange for a powerful time-related item or service.
+_Schnäppchen:_ Eine Erinnerung, die die Lösung eines schwierigen Rätsels oder den Ort eines verborgenen Schatzes enthält; eine Erinnerung an einen lange verschollenen geliebten Menschen, die es dem Spieler ermöglicht, sich wieder mit seiner Vergangenheit zu verbinden. 
 
-    The Lost and Found Emporium:
+_Unangemessener Preis_: Der Ladenbesitzer verlangt die wertvollste Erinnerung des Spielers im Austausch gegen die gewünschte Erinnerung.
 
-This store is filled with items lost by their owners throughout the Nevernever and the mortal realm. The shopkeeper, a mischievous fey sprite with a sharp wit, delights in reuniting items with their rightful owners—or selling them to the highest bidder. The shop's shelves are cluttered with various objects, from misplaced keys to long-lost family heirlooms.
+### Schulden
+An- und Verkauf von Gefallen, nicht eingehaltenen Pakten, etc.
 
-Trap item: A seemingly valuable artifact, which is actually cursed to bring misfortune to its possessor. Genuine items: A powerful magical item that has been lost for centuries; A sentimental trinket that holds great importance to one of the players. Unreasonable request: The sprite requests that the player steal a precious item from a rival fey lord in exchange for the desired object.
+### Zeit
+Kaufe dir einfach ein paar Jahre Lebenszeit dazu.
 
-    The Pocket Dimension Emporium:
+### Lebkuchenbäckerei
+Prakischerweise gleich neben dem Kinderladen gelegen, gibt es hier viel zu wohlschmeckende Lebkuchen. Zu jeder Jahreszeit.
 
-This store specializes in portable, pocket-sized dimensions for storage, travel, or even living spaces. The shopkeeper, an eccentric gnome fey with a talent for obfuscation, is always tinkering with new and exciting dimensional creations. The shop is filled with a variety of colorful orbs and enchanted containers, each holding a unique pocket dimension within.
+### Werkstatt des Zeitmessers
+Dieser Laden verkauft und repariert eine Vielzahl von Gegenständen, die mit der Zeit zu tun haben, wie z. B. Sanduhren, Sonnenuhren und Wecker. Der Zeitwächter, eine rätselhafte Fee mit ständig wechselndem Aussehen, bietet auch Dienstleistungen zur Zeitmanipulation an, wie das Zurück- oder Vorspulen der Zeit, allerdings zu einem hohen Preis. Der Laden ist voll von tickenden und surrenden Mechanismen, und die Wände sind mit Himmelskarten und zeitbezogenen Symbolen geschmückt.
 
-Trap item: A pocket dimension that appears to be a perfect, safe haven but is actually a prison that is nearly impossible to escape. Genuine items: A small container that opens up into a spacious, extra-dimensional storage space; A magical doorway that allows players to instantly travel between two fixed locations. Unreasonable request: The gnome fey asks the player to deliver a mysterious package to a dangerous location, with the contents of the package remaining unknown.
+_Falle:_ Eine Taschenuhr, die verspricht, die Zeit für den Benutzer zu verlangsamen, aber in Wirklichkeit beschleunigt sie die Zeit für alle anderen, so dass sich der Benutzer gehetzt und desorientiert fühlt.
 
-    The Menagerie of Myth:
+_Schnäppchen:_ Ein Zeitmesser, der dem Spieler einen kurzen Blick auf mögliche zukünftige Ergebnisse seiner Handlungen erlaubt; eine Sanduhr, die die Zeit für einige Augenblicke anhalten kann, so dass der Spieler unbemerkt handeln kann. 
 
-A fantastical pet store that sells all manner of magical creatures, from tiny dragon companions to majestic griffins. The store is run by a friendly, knowledgeable beastmaster fey who can provide guidance on proper care and training. The shop is filled with various habitats, each housing a unique magical creature.
+_Unangemessener Preis_: Der Zeitwächter bittet den Spieler, einen Teil seiner verbleibenden Lebenszeit im Austausch für einen mächtigen zeitbezogenen Gegenstand oder eine Dienstleistung zu opfern.
+        
+### Fundgegenstände
+Dieser Stand ist voll mit Gegenständen, die ihre Besitzer im Niemalsland und in der Welt der Sterblichen verloren haben. Der Ladenbesitzer, ein schelmischer Kobold mit scharfem Verstand, freut sich darauf, Gegenstände wieder mit ihren rechtmäßigen Besitzern zu vereinen - oder sie an den Höchstbietenden zu verkaufen. In den Regalen des Ladens stapeln sich die unterschiedlichsten Gegenstände, von verlegten Schlüsseln bis hin zu lange verlorenen Familienerbstücken.
 
--- Trap item: A seemingly docile creature that, once purchased, becomes uncontrollable and wreaks havoc. -- Genuine items: A loyal and intelligent magical creature that can aid the players in their quests; A rare creature with unique abilities that can be used to overcome obstacles. -- Unreasonable request: The beastmaster fey asks the player to capture and return a dangerous creature that has escaped from the shop in exchange for a discount on a desired pet.
+_Falle:_ Ein scheinbar wertvolles Artefakt, das in Wirklichkeit mit einem Fluch belegt ist, der seinem Besitzer Unglück bringt. 
 
-    The Hall of Mirrors:
+_Schnäppchen:_ Ein mächtiger magischer Gegenstand, der seit Jahrhunderten verschollen ist; ein  Schmuckstück, das für einen der Spieler von großer sentimentaler Bedeutung ist. 
 
-This store sells enchanted mirrors that can show different versions of reality, alternate dimensions, or even glimpses into the past or future. The shopkeeper, a mysterious figure always shrouded in shadows, warns that some mirrors may hold more than just reflections. The shop is filled with an array of mirrors in various shapes and sizes, casting a dizzying array of reflections around the room.
+_Unangemessener Preis:_ Der Kobold bittet den Spieler, einen wertvollen Gegenstand von einem rivalisierenden Feenfürsten zu stehlen, um dafür das gewünschte Objekt zu erhalten.
+    
+### Taschendimensionen
+Dieser Stand hat sich auf tragbare Dimensionen im Taschenformat für die Aufbewahrung, für Reisen oder sogar für Wohnräume spezialisiert. Der Ladenbesitzer, ein exzentrischer Gnom mit einem Talent für Verschleierung, tüftelt ständig an neuen und aufregenden Dimensionskreationen. Der Stand zeigt eine Vielzahl von bunten Kugeln und verzauberten Behältern, die jeweils eine einzigartige Taschendimension enthalten.
 
-Trap item: A mirror that shows a desirable future outcome, but using the information provided by the mirror only leads to disaster. Genuine items: A mirror that reveals hidden secrets or hidden doors when gazed upon; A mirror that allows players to communicate with a specific individual from a distance. Unreasonable request: The mysterious fey asks the player to retrieve a powerful artifact from a dangerous location in exchange for a particularly rare or useful enchanted mirror.
+_Falle:_ Eine Taschendimension, die als perfekter, sicherer Zufluchtsort erscheint, in Wirklichkeit aber ein Gefängnis ist, aus dem es fast unmöglich ist, zu entkommen. 
 
-    The Potion Pantry:
+_Schnäppchen:_ Ein kleiner Behälter, der sich zu einem geräumigen, extradimensionalen Lagerraum öffnet; ein magischer Durchgang, der es dem Spieler ermöglicht, sofort zwischen zwei festen Orten zu reisen. 
 
-A shop that sells a vast array of potions, elixirs, and magical concoctions, each brewed by the skillful alchemist fey who owns the store. The shop is filled with bottles and vials of various shapes and sizes, neatly arranged on shelves that reach the ceiling. The alchemist fey is a charming and persuasive individual, always ready to convince customers of the merits of their creations.
+_Unverhältnismäßer Preis:_ Der Gnom bittet den Spieler, ein geheimnisvolles Paket an einen gefährlichen Ort zu liefern, wobei der Inhalt des Pakets unbekannt bleibt.
+    
+### Menagerie des Mythos:
+Eine fantastische Tierhandlung, die alle Arten von magischen Kreaturen verkauft, von winzigen Drachengefährten bis hin zu majestätischen Greifen. Der Laden wird von einem freundlichen, sachkundigen Feenmeister geführt, der Ratschläge zur richtigen Pflege und zum Training geben kann. Der Laden ist mit verschiedenen Lebensräumen gefüllt, die jeweils eine einzigartige magische Kreatur beherbergen.
 
-Trap item: A potion that appears to grant incredible strength but actually causes uncontrollable muscle spasms and weakness. Genuine items: A potion that grants temporary invisibility; A healing elixir that can cure severe wounds or ailments. Unreasonable request: The alchemist fey asks the player to obtain a rare and dangerous magical ingredient, potentially putting the player in harm's way.
+_Falle:_ Eine scheinbar gutmütige Kreatur, die, sobald sie gekauft wird, unkontrollierbar wird und Chaos anrichtet.
 
-    The Enchanted Attire Atelier:
+_Schnäppchen:_ Eine loyale und intelligente magische Kreatur, die den Spielern bei ihren Quests helfen kann; eine seltene Kreatur mit einzigartigen Fähigkeiten, die zur Überwindung von Hindernissen eingesetzt werden kann.
 
-A boutique offering an assortment of magical garments and accessories, each crafted by the talented fey seamstress who runs the store. The shop is a dazzling array of colors and textures, with garments ranging from elegant gowns to sturdy adventuring gear. The seamstress fey is a master of flattery and persuasion, convincing customers of their need for her enchanting creations.
+_Unangemessener Preis:_Der Feenmeister  bittet den Spieler, eine gefährliche Kreatur, die aus dem Laden entkommen ist, zu fangen und zurückzubringen, um im Gegenzug einen Preisnachlass für ein gewünschtes Haustier zu erhalten.
 
-Trap item: A garment that appears to grant protection but actually attracts danger or enemies to the wearer. Genuine items: A cloak that grants the wearer the ability to blend into their surroundings, making them difficult to detect; A pair of boots that increase the wearer's speed and agility. Unreasonable request: The seamstress fey asks the player to steal a rival's unique and powerful enchanted garment in exchange for a custom creation.
+### Halle der Spiegel
+In diesem großen Zelt werden verzauberte Spiegel verkauft, die verschiedene Versionen der Realität, alternative Dimensionen oder sogar Einblicke in die Vergangenheit oder Zukunft zeigen können. Der Ladenbesitzer, eine mysteriöse Gestalt, die immer in Schatten gehüllt ist, warnt davor, dass einige Spiegel mehr als nur Spiegelungen zeigen. Das Zelt ist mit einer Reihe von Spiegeln in verschiedenen Formen und Größen gefüllt, die ein schwindelerregendes Spektrum an Spiegelungen in den Raum werfen.
 
-    The Elemental Emporium:
+_Falle:_ Ein Spiegel, der ein wünschenswertes zukünftiges Ergebnis anzeigt, aber die Nutzung der vom Spiegel gelieferten Informationen führt nur zu einer Katastrophe.
 
-A store that specializes in magical items and artifacts related to the elements—fire, water, earth, and air. The shopkeeper, a fey elemental mage, can manipulate the elements to create dazzling displays and demonstrate the power of the items for sale. The shop is divided into sections representing each element, with items like enchanted weapons, elemental stones, and talismans on display.
+_Schnäppchen:_ Ein Spiegel, der verborgene Geheimnisse oder versteckte Türen offenbart, wenn man ihn anschaut; ein Spiegel, der es den Spielern ermöglicht, mit einer bestimmten Person aus der Ferne zu kommunizieren. 
 
-Trap item: An elemental stone that appears to grant the user control over a specific element, but instead, causes the element to become uncontrollable and destructive. Genuine items: A weapon imbued with elemental power, allowing the wielder to deal additional elemental damage; A talisman that grants the wearer resistance to a specific element. Unreasonable request: The elemental mage fey asks the player to retrieve a dangerous and volatile elemental artifact from a treacherous location in exchange for a powerful item.
+_Unverhältnismäßiger Preis:_ Die geheimnisvolle Fee bittet den Spieler, ein mächtiges Artefakt von einem gefährlichen Ort zu holen und dafür einen besonders seltenen oder nützlichen verzauberten Spiegel zu bekommen.
 
-    Strange Brew:
 
-It's just a coffee shop. The proprietor is a 23-year old human woman, which is odd for a business run in fey lands. The biggest difference is that there are no high-pressure sales here, just typical Starbucks drink options and good wifi. There's one catch, however, like the other businesses in town, the coffee shop does not accept cash. Instead, a sign above the counter states that "all drinks cost one secret". The only requirement is that the secret must be genuine. Beyond that, being within the walls of the cafe will begin to impart a subtle feeling of anxiety and paranoia in the patrons within 10 minutes of their arrival, which can be counteracted by drinking any of the menu items, giving an immediate save to the effect that lasts 30 minutes. Imagine it like the opposite of a caffeine overdose. The interior is just like a human Starbucks.
-3
-Nutzeravatar
-Level 2
-Arandmoor
-·
-vor 25 Tagen
+### Zaubertrank-Brauerei
+Ein Stand, in dem eine große Auswahl an Tränken, Elixieren und magischen Gebräuen verkauft wird, die alle von der geschickten Alchemisten-Fee, dem der Stand gehört, gebraut werden. Der Laden ist gefüllt mit Flaschen und Fläschchen in verschiedenen Formen und Größen, die ordentlich in Regalen angeordnet sind, die bis zur Decke reichen. Der Alchemist ist eine charmante und überzeugende Fee, der stets bereit ist, seine Kunden von den Vorzügen seiner Kreationen zu überzeugen.
 
-I've got something like the memory emporium stuffed into "The Exchange". One of the goods that can be dealt in is memories, where secrets go at a major premium.
+_Falle:_ Ein Trank, der scheinbar unglaubliche Stärke verleiht, in Wirklichkeit aber unkontrollierbare Muskelkrämpfe und Schwäche verursacht. 
 
-Dreams are dealt with in The Hall of Dreams. It's less a shop and closer to an art gallery run by a faerie simply named Nemo. The hall specializes in dream-related services beyond the basic walk-through viewing such as communications with specific individuals through their dreams (normally the viewable dreams are totally random). Phobophages are absolutely not allowed into the gallery.
+_Schnäppchen:_ Ein Trank, der vorübergehend unsichtbar macht; ein Heilelixier, das schwere Wunden oder Krankheiten heilen kann. 
 
-Time Keeeper...stolen almost verbatium.
+_Unverhältnismäßiger Preis:_ Die Alchemisten-Fee bittet den Spieler, eine seltene und gefährliche magische Zutat zu beschaffen, wodurch der Spieler in Gefahr geraten könnte.
 
-Lost and Found...shamelessly stolen almost verbatium. Added a line mentioning a LOT of left socks...
+### Atelier für verzauberte Kleidung
+Eine Boutique, die eine Auswahl an magischen Kleidungsstücken und Accessoires anbietet, die alle von der talentierten Feenschneiderin, die das Geschäft betreibt, hergestellt werden. Der Laden bietet eine schillernde Auswahl an Farben und Texturen, mit Kleidungsstücken, die von eleganten Kleidern bis hin zu robuster Abenteurerausrüstung reichen. Die Feenschneiderin ist eine Meisterin der Schmeichelei und Überredungskunst, die ihre Kunden davon überzeugt, dass sie ihre bezaubernden Kreationen brauchen.
 
-the hall of mirrors...I vamped on it a little.
+Eine Ecke wird von einer halbkreisförmigen Anordnung hoher Spiegel dominiert, die eine erhöhte Plattform umgeben. Jeder (oder alles), der sich auf das erhöhte Podest stellt, sieht sich in der Kleidung, die ihm am besten steht. Sollte die Näherin mit der geistigen Vorstellung des Kunden übereinstimmen, kann die talentierte Fee alles, was der Kunde sich vorstellt, problemlos anfertigen. 
 
-The Halls of Mirrors: Two opposing mirror shops. Each one is an architectural reflection of the other, and each one has a similar inventory to the other. Only, one shop sells mirrors (enchanted mirrors, intelligent mirrors, portal mirrors, linked door mirrors, etc…) while the other sells prisons.
+_Falle:_ Ein Kleidungsstück, das scheinbar Schutz bietet, in Wirklichkeit aber Gefahr oder Feinde anlockt.
 
-...and again, stolen :D The Enchanted Attire Atelier: A boutique offering an assortment of garments and accessories, each crafted by the talented fey seamstress who runs the store. The shop is a dazzling array of colors and textures with garments ranging from elegant gowns to sturdy adventuring gear. The center of the shop is dominated by a semi-circular array of tall mirrors surrounding a raised platform. Anyone (or anything) that stands on the raised platform will see themselves dressed in whatever they feel will make them look the best. Should the seamstress agree with their mental idea of style, anything they imagine can be easily created by the talented fey. Should she disagree with their vision of themselves, they will be find themselves magically transported outside.
-1
-Nutzeravatar
-Level 1
-AverageCypress
-·
-vor 28 Tagen
+_Schnäppchen:_ Ein Umhang, der dem Träger die Fähigkeit verleiht, mit seiner Umgebung zu verschmelzen, so dass er schwer zu entdecken ist; ein Paar Stiefel, die die Geschwindigkeit und Beweglichkeit des Trägers erhöhen. 
 
-    Whiskers & Wings - Run by Fennix Ficklefur, a changeling, this shop sells exotic potions, rare feathers, and enchanted cat toys. Prices are only negotiated through riddles or clever wordplay.
+_Unverhältnismäßiger Preis:_ Die Schneiderin bittet den Spieler, das einzigartige und mächtige verzauberte Kleidungsstück eines Rivalen zu stehlen und dafür eine eigene Kreation anzufertigen.    
 
-    Glamour Galore - Seraphina Stardust, a fashionable pixie, sells enchanted clothing, glamour-enhanced accessories, and magical makeup. Wanna buy something? Rock a mini-fashion show first!
+### Elementare Elementare
+Ein Stand, der sich auf magische Gegenstände und Artefakte spezialisiert hat, die mit den Elementen - Feuer, Wasser, Erde und Luft - zu tun haben. Der Ladenbesitzer, ein feiger Elementarmagier, kann die Elemente manipulieren, um schillernde Vorführungen zu kreieren und die Macht der zum Verkauf stehenden Gegenstände zu demonstrieren. Der Stand ist in Abteilungen unterteilt, die die einzelnen Elemente repräsentieren, mit Gegenständen wie verzauberten Waffen, Elementarsteinen und Talismanen, die ausgestellt werden.
 
-    The Gossamer Grotto - Lumina Lightray, a mysterious will-o'-the-wisp, offers dream-catchers, enchanted fireflies, and glowing crystals. But you gotta tell her a secret before you can shop.
+_Falle:_ Ein Elementarstein, der dem Benutzer scheinbar die Kontrolle über ein bestimmtes Element verleiht, aber stattdessen bewirkt, dass das Element unkontrollierbar und zerstörerisch wird.
 
-    Faerie Fungi - Morus Mossbeard, a knowledgeable dryad, has magical mushrooms, enchanted moss, and peculiar plants. Watch out, though; the shop's alive and might rearrange itself while you browse!
+_Schnäppchen:_ Eine Waffe, die mit elementarer Kraft durchdrungen ist und dem Träger erlaubt, zusätzlichen elementaren Schaden zuzufügen; ein Talisman, der dem Träger Widerstand gegen ein bestimmtes Element verleiht. 
 
-    Glimmering Grimoires - Archibald Atheneum, a scholarly brownie, sells rare spellbooks, scrolls, and magical tomes. He only speaks in rhyme and expects you to do the same.
+_Unverhältnismäßiger Preis:_ Der Elementarmagier bittet den Spieler, ein gefährliches und unbeständiges Elementarartefakt von einem vertrackten, magisch gesicherten Ort zu holen und dafür einen mächtigen Gegenstand zu erhalten.    
 
-    Peculiar Pets Emporium - Nymphaea Nettlewing, a mischievous sprite, offers unusual magical creatures, enchanted pet supplies, and creature care guides. Prove your worth by passing her riddles and tests.
+### Strange Brew
+Einfach ein Café-Stand mit Sitzplätzen. Die Inhaberin ist eine 23-jährige menschliche Frau, was für einen dieser Marktstände höchst ungewöhnlich ist. Der größte Unterschied zu den anderen Ständen ist, dass es hier keinen Verkaufsdruck gibt, sondern nur die typischen Kaffee-Spezialiäten und gutes Wifi. 
 
-    Cursed Confections - Run by Belladonna Bittersweet, a sugar-craving witch, this shop sells bewitched candies, hexed chocolates, and enchanted pastries. Be ready to taste a cursed treat before you buy!
+Einen Haken hat die Sache allerdings: Wie die anderen Geschäfte in der Stadt akzeptiert auch das Café kein Bargeld. Stattdessen steht auf einem Schild über dem Tresen, dass "alle Getränke ein Geheimnis kosten". Die einzige Bedingung ist, dass das Geheimnis echt sein muss. Darüber hinaus wird der Aufenthalt in diesem Café innerhalb von 10 Minuten nach der Ankunft ein subtiles Gefühl der Angst und Paranoia (genau das Gegenteil einer Koffeinüberdosis) bei den Gästen auslösen, das durch den Genuss eines beliebigen Getränks ausgeglichen werden kann, wodurch die Wirkung sofort und für 30 Minuten aufgehoben wird.
 
-    Eldritch Elixirs - Balthazar Bane, a goblin alchemist, has strange potions, powerful elixirs, and other magical brews. Help him make a potion, and he might just give you a discount.
+### Tatze und Flügel
+Kevin Kitzelfell, ein Wechselbalg, verkauft seltene Federn, verzeaubertes Katzenspielzeug und ähnliches. Der Preis wird nur verhandelt, wenn die Kunden sich auf ein Spiel von Rätseln oder Wortspielen einlassen.     
 
-    Trinkets & Treasures - Esmeralda Evergleam, a beguiling siren, offers enchanted jewelry, talismans, and magical trinkets. She'll challenge you to a game of chance, with the prize being your desired item or something personal.
+### Zauberhafte Mode
+Seraphina Sternenstaub, eine modisch gekleidete Fee, verkauft verzauberte Kleidung, glamouröse Accessoires und magisches Make-up. Willst du etwas kaufen? Dann solltest du besser vorher eine geile Mini-Modenschau hinlegen!
 
-    The Sleepy Hollow - Morpheus Moonshade, a somnolent sandman, sells dream-infused pillows, magical sleep aids, and oneiro-enhancing artifacts. But be warned - the shop's atmosphere induces drowsiness, so resist the urge to sleep while browsing.
+### Hauchzartes
+Lumina Lichtstrahl, ein geheimnisvolles Irrlicht, bietet Traumfänger, verzauberte Glühwürmchen und leuchtende Kristalle an. Aber du musst ihr ein Geheimnis verraten, bevor du einkaufen kannst.
 
-2
-Nutzeravatar
-Level 1
-meabh
-·
-vor 28 Tagen
+### Putzige Pilze
+Morus Moßbart, eine kundige (männliche) Dryade, hat magische Pilze, verzaubertes Moos und seltsame Pflanzen. 
 
-As a Coraline fan, I really want you to include a shop that sells buttons for eyes...Literally, the cost *is* your eyes.
-1
-Nutzeravatar
-Level 2
-Arandmoor
-·
-vor 25 Tagen
+### Sauber-Zauber
+Archibald Atheneum, ein gelehrtes Heinzelmännchen, verkauft seltene Zauberbücher, Schriftrollen und magische Folianten. Er spricht nur in Reimen und erwartet, dass du das auch tust.
 
-Adding an individual street vendor. Will go well with my trenchcoat wearing fetch-dream-hustler.
-2
-Nutzeravatar
-Level 1
-FetchMeACoke
-·
-vor 24 Tagen
-· bearbeitet vor 24 Tagen
+### Verfluchte Süßigkeiten
+Belladonna Zartbitter ist eine zuckersüchtige Hexe. Sie verkauft an ihrem Stand verhexte Bonbons, verhexte Schokolade und verzaubertes Gebäck. Vor dem Verkauf besteht sie auf darauf, dass du eine Probe dessen kostest, was du kaufen möchtest.
 
-This is a good idea.
+### Schmuck & Schätze
+Isabella Immerglanz, eine betörende Sirene, bietet verzauberten Schmuck, Talismane und magische Schmuckstücke an. Sie fordert ihre Kunden zu einem Glücksspiel heraus, bei dem der Preis der Wunschgegenstand oder etwas Persönliches ist.
 
-I like to ask myself what does the Face of the shop want, need, etc...from anyone?
-
-Why does anyone in the Nevernever run a shop (weird or otherwise)? Why are they seeking the "currency" they are requesting?
-
-Example: Lurz, a skilled Boggin dentist, will gladly due your dental work (in one fourth the time as Boggins are renown for performing tasks at speed while no one is witnessing). In return, Lurz asks that in the future when you are finished with any tooth, you must place it under your pillow at night and do some chant that basically is a little ditty that alerts him to a new tooth (a'la the toothfaerie). Why? Well, Lurz doesn't actually care about your teeth, BUT Sugar'Rey sure does. You see Sugar'Rey collects teeth. Sugar'Rey needs new teeth so it can continue eating. Sugar'Rey is a powerful Redcap (renown for being able to safely consume anything it can eat) and it loves to fight the Outsiders and those that serve them. Sugar'Rey has discovered that when it eats teeth the better its ability to "consume anything" works. So, Sugar'Rey has two shops working: 1. A candy shop that has the best candy in all the lands.... But, every treat there is promised to cause some sort of tooth issue:Cavity, chipped teeth, pulled fillings....Not that they will tell you that, after all it is "common knowledge" that candy will rot your teeth. The price for this candy is cheap...easy to come by... Money, or secrets about his enemies, or TEETH from sharks, etc... Sugar'Rey wants easy teeth. 2. The second shop, a dentistry run by Lurz. Here, Sugar'Rey gets easy access to teeth. People literally just volunteer them up. But, break your vow and Sugar'Rey shows up to your house and actually beats every tooth from your face out.....and takes them.
-
-Lurz's shop now has a story for being there and a reason for payment to be...teeth.
-
-It also provides Sugar'Rey, the ability to continue doing his job as a faerie...Which is protect the world from Outsiders....while being a jerk to everyone else (bonus).
-
-Now, you have two shops. LOL.
-
-And, be honest... while reading this description.... Did you even stop to think that people who can and do make it to the Nevernever should already have the knowledge that you don't give up personal spell components to people... like blood, hair, skin....teeth... Do you believe your party will notice??? LOL.
-
-What else could Sugar'Rey being doing with teeth. Especially a Wizard's tooth!
-
-It also facilitates the concept behind why we leave teeth under a pillow etc... Sure Lurz and his toothfaeries leave a quarter or whatever that is...cause cash is nothing to these people and easy to come by.... But, perhaps the humans involved are unwittingly fulfilling a contract made by their ancestor long ago....
-
-So...
-
-Shop suggestion one: A candy shop, ah'la Harry Potter. Two: Lurz dental crafting.
-
-And hey, it's a dental shop... Perhaps he can make you some fangs that work or graft some poison glands in there so you can have a poisonous bite. Anything a dentist can do (and a lot of things they cant) Lurz does it better and in one-fourth the time (which they knock you out for).
-
-Good luck!
-2
+### Sleepy Hollow
+Morpheus Mondschatten, ein schläfriges Sandmännchen, verkauft mit Träumen angereicherte Kissen, magische Schlafhilfen und Oneiroi-verstärkende Artefakte. Aber seien Sie gewarnt - die Atmosphäre des Ladens macht schläfrig, also widerstehen Sie dem Drang, beim Stöbern zu schlafen.
