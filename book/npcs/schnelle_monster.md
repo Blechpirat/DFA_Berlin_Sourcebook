@@ -78,3 +78,16 @@ Hier sind drei Ideen für weitere Monster, die die Trostlosigkeit von Marzahn wi
     Ausdauer: 2 (Der Wohnturmgeist ist ein Geist und daher nicht besonders widerstandsfähig)
 
     Konsequenzen: Eine Mild und eine Moderate Konsequenz
+    
+    3. Elektrischer Schrecken 
+
+    Aspekt: "Elektrischer Schrecken" und  "Faszination für Technologie"
+
+    Fertigkeiten: Elektrokinese +3, Tarnung +2, Angriff +2, Wahrnehmung +2
+
+    Stunts: Blitzangriff - Du kannst einen Fate-Punkt ausgeben, um deinem physischen Angriff einen Bonus von +2 zu geben, wenn der Gegner nass ist oder in Wasser steht.
+
+    Ausdauer: 2 (Der Blitzgeist ist nicht besonders widerstandsfähig)
+
+    Konsequenzen: Eine Milde und eine Moderat Konsequenz
+
