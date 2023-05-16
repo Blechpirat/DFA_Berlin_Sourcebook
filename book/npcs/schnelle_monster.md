@@ -91,3 +91,15 @@ Hier sind drei Ideen für weitere Monster, die die Trostlosigkeit von Marzahn wi
 
     Konsequenzen: Eine Milde und eine Moderat Konsequenz
 
+4. Für ein Monster, das die Aspekte des Straßenverkehrs symbolisiert, könnte man einen "Verkehrsdämon" erstellen. Hier sind einige Werte, die du verwenden könntest:
+
+    Aspekt: Verkehrsteufel
+
+    Fertigkeiten: Angriff +3, Flucht +2, Tarnung +2, Wahrnehmung +2
+
+    Stunts: Geschwindigkeit ausnutzen – Durch das Ausnutzen von Geschwindigkeitsbegrenzungen und dichtem Verkehr kann der Verkehrsdämon sein Tempo maximieren. Der Verkehrsdämon bekommt +2 auf Flucht und Angriff, wenn er auf einer Straße angreift oder davon läuft.
+
+    Ausdauer: 3 (Der Verkehrsdämon ist aufgrund seiner schnellen Bewegung und Fähigkeit, Verkehr zu meiden, robust.)
+
+    Konsequenzen: Eine Milde, eine Moderate und eine Schwere Konsequenz
+
